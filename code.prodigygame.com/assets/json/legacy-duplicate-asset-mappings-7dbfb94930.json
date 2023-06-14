@@ -1,0 +1,31 @@
+{
+    "atlas": {
+        "28": 163
+    },
+    "bgm": {
+        "117": 42
+    },
+    "singleImage": {
+        "140": 283,
+        "17": 18,
+        "21": 245
+    },
+    "spine": {
+        "96": 100
+    },
+    "tiledMap": {
+        "15": "battle-academy-office-icetower",
+        "16": "battle-academy-office",
+        "map-lamplight-c3-pumpkinfest": "map-lamplight-c3-arena-pumpkinfest",
+        "map-lamplight-c3-springfest": "map-lamplight-c3-arena-springfest",
+        "map-lamplight-c3-starlight_festival": "map-lamplight-c3-arena-starlight_festival",
+        "map-lamplight-c3-summerfest": "map-lamplight-c3-arena-summerfest",
+        "map-lamplight-c3-winterfest": "map-lamplight-c3-arena-winterfest"
+    },
+    "tileset": {
+        "3": "tileset-arena-bronze",
+        "4": "tileset-arena-silver",
+        "5": "tileset-arena-gold",
+        "tileset-toyzone": "tileset-toy-ruins-test"
+    }
+}
