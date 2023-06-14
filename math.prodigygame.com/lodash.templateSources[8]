@@ -1,0 +1,22 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[8]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '', __j = Array.prototype.join;
+function print() { __p += __j.call(arguments, '') }
+with (obj) {
+__p += '\n        <p class="qi-skill-mastery-screen__message">\n            ' +
+((__t = ( text )) == null ? '' : __t) +
+'\n            ';
+ if (icon) { ;
+__p += '\n                <i class="fa fa-' +
+((__t = ( icon )) == null ? '' : __t) +
+' qi-skill-mastery-screen__text-icon"/>\n            ';
+ } ;
+__p += '\n        </p>\n    ';
+
+}
+return __p
+}
+})

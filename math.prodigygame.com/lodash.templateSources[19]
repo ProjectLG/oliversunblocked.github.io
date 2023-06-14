@@ -1,0 +1,17 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[19]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '<div class="pencil" style="height:40px; float:right;"><div class="tip" style="float:left; height:40px"><div class="lead" style="border-right:20px solid ' +
+((__t = ( color )) == null ? '' : __t) +
+'"></div><div class="wood"></div></div><div class="body" style="background-color:' +
+((__t = ( color )) == null ? '' : __t) +
+'"></div></div>';
+
+}
+return __p
+}
+})

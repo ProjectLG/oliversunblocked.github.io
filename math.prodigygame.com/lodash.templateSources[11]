@@ -1,0 +1,13 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[11]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n        <div class="qi-topic-rank-up-screen">\n            <div class="qi-topic-rank-up-screen__sunburst"/>\n            <div class="qi-topic-rank-up-screen__content">\n                <div class="qi-topic-rank-up-screen__topic-badge"/>\n                <div class="qi-topic-rank-up-screen__patterned-card"/>\n            </div>\n        </div>\n    ';
+
+}
+return __p
+}
+})

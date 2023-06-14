@@ -1,0 +1,13 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[20]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '<div class="eraser"></div>';
+
+}
+return __p
+}
+})

@@ -1,0 +1,15 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[21]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '<i class="fa fa-' +
+((__t = ( icon )) == null ? '' : __t) +
+'"></i>';
+
+}
+return __p
+}
+})

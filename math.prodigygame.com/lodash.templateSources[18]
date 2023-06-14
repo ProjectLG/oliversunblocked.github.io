@@ -1,0 +1,13 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[18]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '<div class="manipulative-icons" style="height:95%; margin:12px; overflow-x:auto;"><table style="width:100%; margin:0px"><tr style="display:-webkit-flex; display:flex"></tr><tr style="display:-webkit-flex; display:flex"></tr><tr style="display:-webkit-flex; display:flex"></tr></table></div><div style="height:12.5%; width:100%; border-top: 1px solid #999; bottom: 0px; position: absolute; border-bottom-right-radius:10px; border-bottom-left-radius:10px; background-color: #EDEDED"><i class="arrow fa fa-arrow-left" style="float:left; border-bottom-left-radius:10px"></i><span style="line-height:40px;"></span><i class="arrow fa fa-arrow-right" style="float:right; border-bottom-right-radius:10px"></i></div>';
+
+}
+return __p
+}
+})

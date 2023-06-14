@@ -1,0 +1,15 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[1]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n        <div class="qi-patterned-card" style="background-color:' +
+((__t = ( backgroundColor )) == null ? '' : __t) +
+'">\n            <div class="qi-patterned-card__pattern"/>\n            <div class="qi-patterned-card__content"/>\n        </div>\n    ';
+
+}
+return __p
+}
+})

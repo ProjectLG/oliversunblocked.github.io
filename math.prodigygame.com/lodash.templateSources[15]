@@ -1,0 +1,13 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[15]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n    <i class="fa fa-star star"/>\n    <i class="fa fa-star star bright"/>\n    <i class="fa fa-star star bright"/>\n    <i class="fa fa-star star bright"/>\n    <i class="fa fa-star star"/>\n    <i class="fa fa-star star"/>\n    <div class="qi-complete-orange-ed-wrapper">\n        <img\n            class="qi-orange-ed"\n            src="https://cdn.prodigygame.com/education/builds/frontend/ver-57861cd8/desktop-question-interface/dist/assets/images/orange-ed-banner.png"\n        />\n    </div>\n    <div class="qi-banner-contents-message">VIDEO COMPLETE!</div>\n';
+
+}
+return __p
+}
+})

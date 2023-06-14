@@ -1,0 +1,13 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[6]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n        <div class="qi-skill-mastery-screen__dismissal-stars">\n            <div class="qi-skill-mastery-screen__dismissal-star"/>\n            <div class="qi-skill-mastery-screen__dismissal-star"/>\n            <div class="qi-skill-mastery-screen__dismissal-star qi-skill-mastery-screen__dismissal-star--large"/>\n            <div class="qi-skill-mastery-screen__dismissal-star"/>\n            <div class="qi-skill-mastery-screen__dismissal-star"/>\n        </div>\n    ';
+
+}
+return __p
+}
+})

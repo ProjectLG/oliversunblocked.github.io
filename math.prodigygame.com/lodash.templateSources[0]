@@ -1,0 +1,17 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[0]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n        <div class="qi-dismissible-screen__content"/>\n        <div class="qi-dismissible-screen__dismiss-button ' +
+((__t = ( dismissButtonClassName )) == null ? '' : __t) +
+'">\n            ' +
+((__t = ( dismissButtonText )) == null ? '' : __t) +
+'\n        </div>\n    ';
+
+}
+return __p
+}
+})

@@ -1,0 +1,15 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[5]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n        <div class="qi-skill-mastery-screen">\n            <div class="qi-skill-mastery-screen__dismissal-stars"/>\n            <div class="qi-skill-mastery-screen__star-wrapper">\n                <div class="qi-skill-mastery-screen__star"/>\n                <p class="qi-skill-mastery-screen__star-text">\n                    ' +
+((__t = ( starText )) == null ? '' : __t) +
+'\n                </p>\n            </div>\n            <div class="qi-skill-mastery-screen__patterned-card"/>\n        </div>\n    ';
+
+}
+return __p
+}
+})

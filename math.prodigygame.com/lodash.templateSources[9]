@@ -1,0 +1,43 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[9]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n        <svg viewBox="0 0 260.43 261.37">\n            <polyline points="130.22 130.68 185.62 12.3 159.6 3.32 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 228.98 45.06 208.86 26.28 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 255.27 92.63 244.53 67.29 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 259.93 146.78 260.43 119.26 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 242.17 198.15 253.82 173.21 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 205.05 237.85 225.83 219.8 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 155 259.02 181.32 250.99 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 100.65 258 127.97 261.37 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 51.43 234.97 75.01 249.15 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 15.82 193.9 31.6 216.46 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 0 141.9 5.24 168.92 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 6.69 87.97 0.49 114.78 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 34.75 41.42 18.17 63.39 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 79.31 10.3 55.23 23.63 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n            <polyline points="130.22 130.68 132.68 0 105.26 2.38 130.22 130.68" style="fill: ' +
+((__t = ( color )) == null ? '' : __t) +
+'" />\n        </svg>\n    ';
+
+}
+return __p
+}
+})

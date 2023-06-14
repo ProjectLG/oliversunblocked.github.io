@@ -1,0 +1,17 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[12]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n        <div class="qi-topic-rank-up-screen__card-content">\n            <div class="qi-topic-rank-up-screen__primary-text">\n                <p class="qi-topic-rank-up-screen__message">\n                    ' +
+((__t = ( topicName )) == null ? '' : __t) +
+'\n                </p>\n            </div>\n            <div class="qi-topic-rank-up-screen__secondary-text">\n                <p class="qi-topic-rank-up-screen__message">\n                    Rank ' +
+((__t = ( rankNumber )) == null ? '' : __t) +
+'\n                </p>\n            </div>\n        </div>\n    ';
+
+}
+return __p
+}
+})

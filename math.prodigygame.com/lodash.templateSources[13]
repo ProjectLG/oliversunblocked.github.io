@@ -1,0 +1,17 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[13]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '\n        <div class="' +
+((__t = ( className )) == null ? '' : __t) +
+'" data-state="' +
+((__t = ( dataStateName )) == null ? '' : __t) +
+'">\n            <div class="qi-banner-contents">\n                <div class="qi-banner-inner-contents"/>\n            </div>\n        </div>\n    ';
+
+}
+return __p
+}
+})

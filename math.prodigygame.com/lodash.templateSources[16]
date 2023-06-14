@@ -1,0 +1,13 @@
+(function anonymous(_
+) {
+//# sourceURL=lodash.templateSources[16]
+return function(obj) {
+obj || (obj = {});
+var __t, __p = '';
+with (obj) {
+__p += '<i style="float:right; padding-top:3px" class="qi-notice-close fa fa-times"></i><div style="float:left; width:920px" class="message"></div>';
+
+}
+return __p
+}
+})
